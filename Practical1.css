@@ -1,0 +1,53 @@
+p{
+	background-color: lightyellow;
+	font-size: 12px;
+	font-family: arial;
+}
+
+#para1{
+	font-size: 14px;
+	color: white;
+	font-family: times;
+	background-color: black;
+	
+}
+
+.list{
+	font-family: arial;
+	color: red;
+}
+
+h1,h2,h3{
+	font-family: times;
+	color: purple;
+}
+
+#table1{
+	padding: 10px;
+	color: darkblue;
+	background-color: linen;
+	margin: 10px;
+	font-family: times;
+	border: 10px;
+}
+
+#table2{
+	padding: 10px;
+	color: purple;
+	background-color: lightyellow;
+	margin:30px;
+	font-family: arial;
+	border:20px;
+}
+
+#img{
+	float: right;
+	width: 100px;
+	height:300px;
+
+}
+
+#content p{
+	font-family: arial;
+	color: red
+}
