@@ -51,3 +51,13 @@ h1,h2,h3{
 	font-family: arial;
 	color: red
 }
+
+.para ul li:hover{
+	background-color: red;
+}
+
+#leftnav ul li a{
+	text-decoration: underline;
+	background-color: red;
+	width: 120px;
+}
